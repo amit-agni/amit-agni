@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 * 👨‍🔬 I'm a data science enthusiast
-* 🛑 Here, you will find some of my old data science projects, mostly built during my data science learning phase
+* ⏰ Here, you will find some of my old data science projects, mostly built during my data science learning phase
+* 🎄Majority of the newer repos are private, that I intend to open them in due course of time
 * 📖 I use both R and Python
 * 🛠 I am currently working on porting my blog [datalearnings.com](https://www.datalearnings.com/post/) from R to Python
+* 📞 I am happy to collaborate on advanced data analytics projects. Feel free to reach out on [linkedin](https://www.linkedin.com/in/amitagni/)
 <!--
 **amit-agni/amit-agni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

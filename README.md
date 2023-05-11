@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-* I'm a data science enthusiast. 
-* Here, you will find some of my personal data science projects that I have made public. 
-* I use both R and Python. 
-* I am currently working on porting my blog [datalearnings.com](https://www.datalearnings.com/post/) from R to Python. 
+* 👨‍🔬 I'm a data science enthusiast. 
+* 📽 Here, you will find some of my personal data science projects that I have made public. 
+* 📖 I use both R and Python. 
+* 🛠 I am currently working on porting my blog [datalearnings.com](https://www.datalearnings.com/post/) from R to Python. 
 <!--
 **amit-agni/amit-agni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

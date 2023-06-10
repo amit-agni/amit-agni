@@ -3,7 +3,7 @@
 * 👨‍🔬 I'm a data professional, with over 20 years in the IT industry
 * 📖 I use R and Python
 
-* ⏰ Here, you will find some of my old data science projects, mostly built during the data science learning phase
+* ⏰ Here, you will find some of my old data science projects, mostly built during my data science learning phase
 * 🎄 The newer repos are private, that I intend to open in due course of time
 
 * 🛠 I am currently working on porting my blog [datalearnings.com](https://www.datalearnings.com/post/) from R to Python
